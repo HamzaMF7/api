@@ -2,6 +2,21 @@
   "projects": [
     {
       "id": 1,
+      "image": "img/carRentalThumbnail.webp",
+      "name": "Car Booking Website ",
+      "description": "Elevate your journey with Cruise Car Rentals – where convenience meets quality. Explore our diverse fleet and book your ride effortlessly today.",
+      "language": [
+        "HTML",
+        "SCSS",
+        "ReactJS",
+        "TypeScript",
+        "ANTD",
+        "ReduxToolkit"
+      ],
+      "lien": "https://rental-mycar.netlify.app/"
+    },
+    {
+      "id": 2,
       "image": "img/img2.webp",
       "name": "E-commerce store",
       "description": "Your ultimate destination for sportswear, gear, and equipment. Elevate your athletic performance and lifestyle with top-quality products tailored to your sporting needs",
@@ -14,7 +29,7 @@
       "lien": "https://califit.calisthenics-fit.com/"
     },
     {
-      "id": 2,
+      "id": 3,
       "image": "img/img4.webp",
       "name": "Dashboard",
       "description": "Streamline your e-commerce operations with our user-friendly dashboard. Effortlessly manage sales, inventory, and gain valuable insights to drive your online business success",
@@ -27,7 +42,7 @@
       "lien": "https://califitdashboard.calisthenics-fit.com/"
     },
     {
-      "id": 3,
+      "id": 4,
       "image": "img/img1.webp",
       "name": "C.P-COMPANY",
       "description": "Welcome to the homepage of a contemporary fashion clothing store, where you'll find the latest in modern apparel and trendy fashion",
@@ -38,7 +53,7 @@
       "lien": "https://hamzamf7.github.io/C.P-COMPANY/"
     },
     {
-      "id": 4,
+      "id": 5,
       "image": "img/img8.webp",
       "name": "SinglePage_Website",
       "description": "Explore my skills in HTML and CSS through a captivating single-page website project. Witness creativity in design, seamless navigation, and responsive layouts that showcase my expertise in front-end web development",
@@ -50,7 +65,7 @@
       "lien": "https://hamzamf7.github.io/SinglePage_WebSite_example/"
     },
     {
-      "id": 5,
+      "id": 6,
       "image": "img/img3.webp",
       "name": "ToDoList_JQ",
       "description": "Stay organized and on top of your tasks with our user-friendly to-do list project. Effortlessly manage your daily agenda, prioritize tasks, and boost productivity with our intuitive task management tool",
