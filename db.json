@@ -2,6 +2,14 @@
   "projects": [
     {
       "id": 1,
+      "image": "img/AppTesters-thumbnail.webp",
+      "name": "Landing page",
+      "description": "",
+      "language": ["HTML", "SCSS", "ReactJS", "ANTD"],
+      "lien": "https://app-testers.netlify.app"
+    },
+    {
+      "id": 2,
       "image": "img/carRentalThumbnail.webp",
       "name": "Car Booking Website ",
       "description": "Elevate your journey with Cruise Car Rentals – where convenience meets quality. Explore our diverse fleet and book your ride effortlessly today.",
@@ -16,7 +24,7 @@
       "lien": "https://rental-mycar.netlify.app/"
     },
     {
-      "id": 2,
+      "id": 3,
       "image": "img/img2.webp",
       "name": "E-commerce store",
       "description": "Your ultimate destination for sportswear, gear, and equipment. Elevate your athletic performance and lifestyle with top-quality products tailored to your sporting needs",
@@ -29,7 +37,7 @@
       "lien": "https://califit.calisthenics-fit.com/"
     },
     {
-      "id": 3,
+      "id": 4,
       "image": "img/img4.webp",
       "name": "Dashboard",
       "description": "Streamline your e-commerce operations with our user-friendly dashboard. Effortlessly manage sales, inventory, and gain valuable insights to drive your online business success",
